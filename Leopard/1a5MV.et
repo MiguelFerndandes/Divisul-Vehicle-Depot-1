@@ -4,7 +4,7 @@ KOS_TrackedVehicle : "{62F416029692CE40}Prefabs/Vehicles/Core/Wheeled_Base.et" {
   SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
    m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
     m_aAuthoredLabels {
-     ENTITYTYPE_VEHICLE TRAIT_ARMOR TRAIT_ARMED VEHICLE_TANK
+     ENTITYTYPE_VEHICLE TRAIT_ARMOR TRAIT_ARMED EVD_VEHICLE_TANK
     }
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {

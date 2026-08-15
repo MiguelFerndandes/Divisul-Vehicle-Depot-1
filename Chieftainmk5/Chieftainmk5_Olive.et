@@ -4,21 +4,18 @@ KOS_TrackedVehicle : "{62F416029692CE40}Prefabs/Vehicles/Core/Wheeled_Base.et" {
   SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
    m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
     m_aAuthoredLabels {
-     ENTITYTYPE_VEHICLE TRAIT_ARMOR TRAIT_ARMED TRAIT_PASSENGERS_LARGE TRAIT_SUPPLYSTORAGE_SMALL TRAIT_AMPHIBIOUS EVD_VEHICLE_TANK
-    }
-    m_aAutoLabels {
-     FACTION_USSR SIZE_L
+     ENTITYTYPE_VEHICLE TRAIT_ARMOR TRAIT_ARMED EVD_VEHICLE_TANK
     }
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
-      m_Value 4000
+      m_Value 10000
      }
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
-      m_Value 300
+      m_Value 600
      }
-     SCR_EntityBudgetValue "{61D4BD24BDA07C85}" {
-      m_BudgetType RANK_LIEUTENANT
-      m_Value 4
+     SCR_EntityBudgetValue "{6506DEF4A9DE00FA}" {
+      m_BudgetType RANK_GENERAL
+      m_Value 8
      }
     }
    }
