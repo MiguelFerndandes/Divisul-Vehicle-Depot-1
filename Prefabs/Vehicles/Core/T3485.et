@@ -6,9 +6,6 @@ KOS_TrackedVehicle : "{62F416029692CE40}Prefabs/Vehicles/Core/Wheeled_Base.et" {
     m_aAuthoredLabels {
      ENTITYTYPE_VEHICLE TRAIT_ARMOR TRAIT_ARMED TRAIT_PASSENGERS_LARGE TRAIT_SUPPLYSTORAGE_SMALL TRAIT_AMPHIBIOUS EVD_VEHICLE_TANK
     }
-    m_aAutoLabels {
-     FACTION_USSR SIZE_L
-    }
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
       m_Value 4000
