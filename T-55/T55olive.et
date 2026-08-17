@@ -11,7 +11,6 @@ KOS_TrackedVehicle : "{62F416029692CE40}Prefabs/Vehicles/Core/Wheeled_Base.et" {
       m_Value 7000
      }
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
-      m_Value 600
      }
      SCR_EntityBudgetValue "{61DEC0DFF3915128}" {
       m_BudgetType RANK_CAPTAIN
