@@ -1,0 +1,49 @@
+Vehicle : "{B6B8C164FD6377EA}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_base.et" {
+ ID "57DA6675519A417B"
+ components {
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
+      m_Value 2200
+     }
+    }
+   }
+  }
+  SCR_ResourceComponent "{60DAD313D31A3A96}" {
+   m_aContainers {
+    SCR_ResourceContainer "{60DAD313D31A3A8B}" {
+    }
+   }
+   m_eDebugVisualizationFlags -14
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo SupplyStorage_01 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_02 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_03 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_04 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_05 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_06 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_07 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_08 {
+     Prefab "{12E8BF166CA35E7D}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_Vehicle_Soviet_Helicopter.et"
+    }
+   }
+  }
+ }
+}

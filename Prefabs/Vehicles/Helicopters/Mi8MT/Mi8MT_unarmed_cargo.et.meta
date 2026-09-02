@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E9E51CEA5FE01B05}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_cargo.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -13,8 +13,8 @@ KOS_TrackedVehicle : "{62F416029692CE40}Prefabs/Vehicles/Core/Wheeled_Base.et" {
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
      }
      SCR_EntityBudgetValue "{6464D8DC3E586244}" {
-      m_BudgetType RANK_MAJOR
-      m_Value 6
+      m_BudgetType RANK_GENERAL
+      m_Value 8
      }
     }
    }

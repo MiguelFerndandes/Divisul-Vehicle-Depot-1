@@ -1,0 +1,113 @@
+Vehicle : "{D03C0F6044DB5208}Prefabs/Vehicles/Helicopters/UH1H/UH1H_base.et" {
+ ID "57DA6675519A417B"
+ components {
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
+      m_Value 2200
+     }
+    }
+   }
+  }
+  SCR_ResourceComponent "{647A8BBB14D93D4B}" {
+   m_aContainers {
+    SCR_ResourceContainer "{647A8BBB097144D2}" {
+    }
+   }
+   m_aConsumers {
+    SCR_ResourceConsumer "{5E42966EB4B6C40C}" {
+    }
+    SCR_ResourceConsumer "{5E42966EB7ABFDFF}" {
+    }
+   }
+   m_aGenerators {
+    SCR_ResourceGenerator "{5E42966EB87D0B2E}" {
+    }
+   }
+   m_eDebugVisualizationFlags -14
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo SupplyStorage_01 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_02 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_03 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_04 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_05 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_06 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_07 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_08 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_09 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_10 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_11 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_12 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_13 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_14 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_15 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_16 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_17 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_18 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_19 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_20 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_21 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_22 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_23 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_24 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_25 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+    RegisteringComponentSlotInfo SupplyStorage_26 {
+     Prefab "{F68686CC4926DAAA}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_Vehicle_Helicopter_American.et"
+    }
+   }
+  }
+ }
+}
