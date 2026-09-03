@@ -1,0 +1,6 @@
+GenericEntity : "{43448F6969D03024}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatLarge/E_Helipad_L_Conflict_FIA_01.et" {
+ coords 5620.634 94.85 5975.527
+}
+GenericEntity : "{A4884F8D260FBE1A}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatMedium/E_VehicleMaintenance_M_Conflict_FIA_01.et" {
+ coords 5648.939 96.697 5973.264
+}

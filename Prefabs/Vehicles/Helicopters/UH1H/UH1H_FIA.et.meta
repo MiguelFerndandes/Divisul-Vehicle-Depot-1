@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{59B5C40324E892CB}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_unarmed_FIA_red.et"
+ Name "{A3556C7E4B5F6A8D}Prefabs/Vehicles/Helicopters/UH1H/UH1H_FIA.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
