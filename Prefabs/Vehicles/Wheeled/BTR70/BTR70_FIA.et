@@ -7,6 +7,10 @@ Vehicle : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
       m_Value 2500
      }
+     SCR_EntityBudgetValue "{61F46CF272D0F84B}" {
+      m_BudgetType RANK_MAJOR
+      m_Value 6
+     }
     }
    }
   }
